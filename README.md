@@ -1,4 +1,4 @@
-# yahoo finance web scrapping package
+# Yahoo Finance Web Scrapping Package
 
 This repository is a demonstration of how to use the yahoo_fin package to scrape data from Yahoo Finance. The package is powerful and user-friendly, making it an excellent tool for both beginners and experienced professionals looking to automate the process of pulling real-time stock prices and other financial data.
 
